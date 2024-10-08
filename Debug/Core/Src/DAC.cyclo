@@ -1,0 +1,2 @@
+../Core/Src/DAC.c:12:6:write_DAC	3
+../Core/Src/DAC.c:42:10:read_DAC	3

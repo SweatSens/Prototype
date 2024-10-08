@@ -1,0 +1,13 @@
+../Core/Src/CLI.c:12:6:show_parameter	40	static
+../Core/Src/CLI.c:30:6:change_voltammetry_parameter	40	static
+../Core/Src/CLI.c:62:6:change_voltammetry_technique	40	static
+../Core/Src/CLI.c:91:6:voltammerty_write_SIM_parameter	24	static
+../Core/Src/CLI.c:137:6:voltammerty_write_parameter	16	static
+../Core/Src/CLI.c:189:6:voltammerty_simultaneously	16	static
+../Core/Src/CLI.c:223:6:voltammerty_individually	16	static
+../Core/Src/CLI.c:247:6:start	24	static
+../Core/Src/CLI.c:283:6:change_voltammetry	8	static
+../Core/Src/CLI.c:323:6:show_voltammetry	16	static
+../Core/Src/CLI.c:419:6:show_potentiostat	32	static
+../Core/Src/CLI.c:454:6:change_potentiostat	32	static
+../Core/Src/CLI.c:524:6:UART_menu	8	static

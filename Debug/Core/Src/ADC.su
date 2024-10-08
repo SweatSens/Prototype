@@ -1,0 +1,6 @@
+../Core/Src/ADC.c:12:6:write_ADC	24	static
+../Core/Src/ADC.c:21:9:read_ADC	24	static
+../Core/Src/ADC.c:39:9:check_ADC	8	static
+../Core/Src/ADC.c:47:6:ADC_change_polarity	16	static
+../Core/Src/ADC.c:55:7:ADC_get	32	static
+../Core/Src/ADC.c:82:6:ADC_mult	40	static
